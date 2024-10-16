@@ -35,12 +35,12 @@ footer{
         height: 20rem;    
     }
 
-    .concoteudo-cartao {
+    .conteudo-cartao {
         background-color: var(--cartao-frente);
         text-align: center;
         height: 100%;
 
-        .concoteudo-cartao h3 {
+        .conteudo-cartao h3 {
             color: var(--destaque);
             border: 1px solid var(--destaque);
             position: absolute;
