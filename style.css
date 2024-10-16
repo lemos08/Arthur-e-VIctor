@@ -2,7 +2,7 @@
     --fundo: #6959CD;
     --cartao-frente: #6495ED;
     --cartao-verso: #00008B;
-    --destaque: #20B2AA;
+    --destaque: #00FFFF;
     --preto: #000000;
     --branco: #ffffff;
     
@@ -50,5 +50,11 @@ footer{
             padding: 0.6rem;
             border-radius: 0.6rem;
             font-size: 1vw;
+        }
+
+        .conteudo-cartao p{
+            margin-top: 4rem;
+            font-size: 1.4rem;
+            padding: 2rem;
         }
     }
