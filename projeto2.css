@@ -45,6 +45,8 @@ footer {
     padding: 40px;
     background-color: var(--cartao-frente);
     box-shadow: 8px 7px 25px 3px var(--preto);
+    border:  1px solid var(--preto);
+    border-radius: 13px;
 }
 
 .conteudo-cartao:hover{
