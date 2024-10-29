@@ -54,4 +54,8 @@ footer {
     transform: scale(1.015);
 }
 
+.resposta-cartao{
+    background-color: var(--cartao-verso);
+}
+
 
